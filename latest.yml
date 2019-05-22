@@ -1,0 +1,8 @@
+version: 3.0.0
+files:
+  - url: book_sale_setup_3.0.0.exe
+    sha512: xlMvLCXBWnx298cFQbSsy7pIbhkll3Q7hmXVQvH/oVaXNRZ+bHE7GukJRRMjH5o4tgWMrbFpmYTsIduviVoEpA==
+    size: 44660331
+path: book_sale_setup_3.0.0.exe
+sha512: xlMvLCXBWnx298cFQbSsy7pIbhkll3Q7hmXVQvH/oVaXNRZ+bHE7GukJRRMjH5o4tgWMrbFpmYTsIduviVoEpA==
+releaseDate: '2019-05-21T08:41:49.412Z'
